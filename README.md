@@ -7,4 +7,13 @@ A Solution Architect having 20+ years of experience in Software Engineering, Sys
 
 Pioneer and experienced in architecting, designing and implementing highly available, resilient enterprise applications for solving critical business problems in diverse domains.
 
+I follow SAFe practice and own technical vision for a large solution that spans across multiple teams.
+
+
 ![Solution Architect](https://www.leanix.net/hs-fs/hubfs/Blog/enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png?width=753&height=400&name=enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png)
+
+### Key Responsibilities
+* Desing Architectural blueprints, solution approach, major components, interfaces, and key technology choices across multiple teams.
+* Provide and evolve an architectural vision and guidelines so teams can make local decisions while staying aligned with business objective
+* Shape and maintain the architectural runway for future features (enablers, platforms, shared services, NFR capabilities).
+* Collaborate closely with Enterprise Architects, Product Management, RTEs and Scrum teams, participating in PI events (PI Planning, System Demos, Inspect & Adapt).
